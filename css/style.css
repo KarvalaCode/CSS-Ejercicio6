@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(27, 27, 27);
+}
+
+p{
+    color: coral;
+}
+
+.miparrafo{
+    color:lightseagreen;
+}
+
+div p{
+    color:lightsalmon;
+}
+
+#miparrafo {
+    color: #ffc300;
+}
